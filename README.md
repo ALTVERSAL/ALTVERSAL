@@ -47,6 +47,3 @@
     <p>
     <img src="https://github-contributor-stats.vercel.app/api?username=ALTVERSAL&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
     </p>
-
-
-    <hr/>
